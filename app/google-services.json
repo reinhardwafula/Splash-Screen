@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082988242123",
+    "project_id": "moblie-shop-47b64",
+    "storage_bucket": "moblie-shop-47b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082988242123:android:23600ecd428d5a1416a74e",
+        "android_client_info": {
+          "package_name": "com.example.moblieshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082988242123-3qcoq3fmkj02la2nir4cnt4kebi0nddr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4jeIsQ8AolQN7kYYHSaKyOBoaONunpXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082988242123-3qcoq3fmkj02la2nir4cnt4kebi0nddr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
