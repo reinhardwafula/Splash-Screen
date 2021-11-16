@@ -10,11 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MoblieShop">
         <activity
-            android:name=".SplashActivity"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
